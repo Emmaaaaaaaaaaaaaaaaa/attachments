@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'wenkai';
+    src: url('LXGWWenKaiMonoGBLite-Light.ttf');
+    /* 修改成你的字体 */
+    font-display: swap
+}
+
+body {
+    font-family: wenkai !important;
+}
+
+h1#site-title {
+    font-family: wenkai !important
+}
+
+span#subtitle {
+    font-family: wenkai !important
+}
+
+a#site-name {
+    font-family: wenjau !important
+}
